@@ -1,0 +1,2 @@
+# vscode_right_click_setup
+windows 设置VSCode右击打开文件与文件夹的bat脚本文件
